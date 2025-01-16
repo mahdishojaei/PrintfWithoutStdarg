@@ -1,0 +1,12 @@
+# Ignore compiled object files
+*.o
+
+
+# Ignore compiled executable files
+*.out
+*.exe
+
+
+# Ignore .win and .layout files
+*.win
+*.layout
